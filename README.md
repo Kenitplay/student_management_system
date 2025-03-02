@@ -25,18 +25,18 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the Repository
 Open your terminal and run the following command to clone the repository:
-https://github.com/Kenitplay/student_management_system.git
+- https://github.com/Kenitplay/student_management_system.git
 
 2. Navigate to the Project Directory
 Change to the project directory:
-cd student_management_system
+- cd student_management_system
 
 3. Create a Virtual Environment
 Install dependencies and create a virtual environment using Pipenv:
-pipenv install
+- pipenv install
 
 4. Activate the virtual environment:
-pipenv shell
+- pipenv shell
 
 5. Set Up the Database:
 python manage.py migrate
