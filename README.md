@@ -39,15 +39,15 @@ Install dependencies and create a virtual environment using Pipenv:
 - pipenv shell
 
 5. Set Up the Database:
-python manage.py migrate
+- python manage.py migrate
 
 
 # Running the Application
 
 Start the Django development server:
-python manage.py runserver
+- python manage.py runserver
 
 Open your web browser and navigate to:
-http://127.0.0.1:8000/
+- http://127.0.0.1:8000/
 
 
