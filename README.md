@@ -32,8 +32,8 @@ Change to the project directory:
 - cd student_management_system
 
 3. Create a Virtual Environment
-Install dependencies and create a virtual environment using Pipenv:
-- pipenv install
+Install django and dependencies and create a virtual environment using Pipenv:
+- pipenv install django
 
 4. Activate the virtual environment:
 - pipenv shell
